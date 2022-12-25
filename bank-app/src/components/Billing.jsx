@@ -20,7 +20,7 @@ const Billing = () => {
           Easily control your <br className="sm:block hidden" /> billing &
           invoicing
         </h2>
-        <p className={`${style.paragraph} max-w-[470px] mt-5`}>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla
           posuere sollicitudin aliquam ultrices sagittis orci a.
